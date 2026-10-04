@@ -37,11 +37,17 @@ AI/ML Engineer | Generative AI | LLMs | RAG | Agentic AI
 
 ### 🧠 Generative AI
 
+
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-007ACC?style=for-the-badge&logoColor=white" />
 </p>
 
-**LLMs • RAG • AI Agents • Prompt Engineering • Fine-Tuning • MCP • Tool Calling**
 
 ### 💻 Programming
 
